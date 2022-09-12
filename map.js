@@ -7,4 +7,4 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     }).addTo(map);
 
     var marker = L.marker([51.5, -0.09]).addTo(map);
-    
+    var pos = print("position");
